@@ -1,6 +1,6 @@
 # T615-J Hazmat Drone
 ### Custom objection.lol character (share code: `FTNAHN`)
-![Preview](/Prosecution/Stand/stand-preview.png)
+![Preview](/Prosecution/Smirk/smirk-preview.gif)
 
 ###### Directory structure:
 * `Location`/`Pose`/`Idle/Talking`.gif
