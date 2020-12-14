@@ -15,5 +15,5 @@
 - [ ] Cornered
 
 ## Directory structure:
-* `Location`/`Pose`/`Idle/Talking`.gif
-* `Location`/`Pose`/`Idle/Talking`/Frames/
+* `Location`/`Pose`/`idle/talking/animation`.gif
+* `Location`/`Pose`/`idle/talking/animation`/Frames/`0-9`.png
