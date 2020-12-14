@@ -5,10 +5,10 @@
 
 ## Poses:
 ###### Prosecution
-- [ ] Stand
-- [ ] Read
-- [ ] Smirk
-- [ ] Desk Slam
+- [x] Stand
+- [x] Read
+- [x] Smirk
+- [x] Desk Slam
 - [ ] Point
 - [ ] Yell
 - [ ] Damage
