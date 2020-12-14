@@ -1,7 +1,7 @@
 # T615-J Hazmat Drone (custom [objection.lol](https://github.com/objection-lol/website/) character)
 #### Share code: `FTNAHN`
 #### [Quick preview of animations](https://objection.lol/objection/838174)
-![Preview](/Prosecution/Smirk/smirk-preview.gif)
+![Preview](/Prosecution/Smirk/preview.gif)
 
 ## Poses:
 ###### Prosecution
