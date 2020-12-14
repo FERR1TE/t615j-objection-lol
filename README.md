@@ -16,5 +16,5 @@
 
 ## Directory structure:
 * `Location`/`Pose`/preview.gif *(opaque preview, for use on chat platforms)*
-* `Location`/`Pose`/`idle/talk/animation`.gif *(transparent, used for objection.lol)*
-* `Location`/`Pose`/`idle/talk/animation`/Frames/`idle/talk/animation-0-9`.png *(source frames, in case things need to be changed later)*
+* `Location`/`Pose`/`animation/talk/idle`.gif *(transparent, used for objection.lol)*
+* `Location`/`Pose`/`animation/talk/idle`/Frames/`animation/talk/idle-0-9`.png *(source frames, in case things need to be changed later)*
