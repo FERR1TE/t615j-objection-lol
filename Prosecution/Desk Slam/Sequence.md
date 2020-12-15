@@ -1,14 +1,23 @@
 # Desk Slam
 ##### preview.gif
-`PLEASE DOCUMENT`
+* idle-0.png (500ms)
+* animation-0.png (240ms)
+* animation-1.png (360ms)
+* desk-slam-talk.png (1000ms)
+* animation-1.png (100ms)
+* desk-slam-talk.png (200ms)
+* animation-1.png (1000ms)
 
 ##### animation.gif
-`PLEASE DOCUMENT`
+* animation-0.png (240ms)
+* animation-1.png (360ms)
 
 ##### talk.gif
-* talk-0.png (100ms)
-* talk-1.png (100ms)
+* animation-1.png (200ms)
+* desk-slam-talk.png (1000ms)
+* animation-1.png (100ms)
+* desk-slam-talk.png (200ms)
 
 ##### idle.gif
-* idle-0.png
+* animation-1.png
 
